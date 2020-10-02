@@ -1,2 +1,2 @@
-# simple_interest_calculator
+# _simple_interest_calculator_
 Application developed using basics of flutter
